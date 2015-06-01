@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+title: Devin Readel
+email: readeldj@gmail.com
+author: Devin Readel
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -24,9 +24,11 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: facebook
+    url: https://facebook.com/devin.readel
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/readeldj
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/devinreadel
+  - title: inbox
+    url: readeldj@gmail.com

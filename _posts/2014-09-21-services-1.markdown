@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: vm_ware.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Virtual Machines for Offshore Control Systems
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  How do you test changes before putting them live into a Control System that controls the production of Millions of dollars worth of Oil and Gas Production per day? Several of us offshore hackers have been using [VMware Workstation](http://www.vmware.com/products/workstation/) to do this. It started out as a way to migrate older OSs onto newer PCs. But after joining a larger team and being left in charge in a place where everything is hard to get, our endeavors got larger. It started by showing the team how to clone XP laptops, change the keys and hack all vendor activations. From there the challenge was to hack and crack everything. In the end we could simulate every HMI on one workstation in isolation and test changes till proven reliable. VMware has proven to be a great tool for for efficiency on many levels.
