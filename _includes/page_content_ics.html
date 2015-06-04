@@ -2,7 +2,7 @@
 <!-- Page Content -->
 
 {% for post in site.posts reversed %}
-  {% if post.categories contains 'blog1' %}
+  {% if post.categories contains 'blog2' %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">

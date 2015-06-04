@@ -25,10 +25,16 @@ permalink: pretty
 
 social:
   - title: facebook
+    subTitle: facebook
     url: https://facebook.com/devin.readel
   - title: github
+    subTitle: github
     url: https://github.com/readeldj
   - title: linkedin
+    subTitle: linkedin
     url: https://www.linkedin.com/in/devinreadel
-  - title: inbox
-    url: readeldj@gmail.com
+  - title: envelope-o
+    subTitle: email
+    url: mailto:readeldj@gmail.com
+
+port: 3000

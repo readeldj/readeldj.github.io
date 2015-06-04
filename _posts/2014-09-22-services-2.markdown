@@ -1,8 +1,0 @@
----
-layout: default
-img: keys.jpg
-category: Services
-title: Recycle the cool way
-description: |
----
-  Did you have the refrigerator alphabet magnets as a kid or parent? Would you like to recycle/repurpose and set yourself apart from the norm? Then take that old keyboard out of the closet and remove the keys. Cut the back of it down smooth and add a magnet and some glue. Now you have helped the environment and made something tech cool.

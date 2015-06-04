@@ -1,9 +1,7 @@
 <section id="services">
 <!-- Page Content -->
-
 {% for post in site.posts reversed %}
-  {% if post.categories contains 'blog1' %}
-    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
 
@@ -49,7 +47,6 @@
 
     </div>
     <!-- /.content-section-b -->
-    {% endif %}
     {% endif %}
 {% endfor %}
 </section>
