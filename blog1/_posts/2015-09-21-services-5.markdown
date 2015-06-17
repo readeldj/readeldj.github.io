@@ -1,9 +1,0 @@
----
-layout: default
-img: deathstar.jpg
-<!-- category: Services -->
-category: blog1
-title: Virtual Machines for Offshore Control Systems
-description: |
----
-  How do you test changes before putting them live into a Control System that controls the production of Millions of dollars
